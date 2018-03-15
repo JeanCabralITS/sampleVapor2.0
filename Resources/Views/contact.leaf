@@ -1,0 +1,7 @@
+#set("title"){Contact}
+#set("h1"){ We Got Fun and Games}
+
+#set("body"){<p> Call us at 1800-Welcome </p>}
+
+#embed("master")
+
