@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <title>#get(title) - Welcome To The Jungle </title>
+    </head>
+
+    <body>
+        <h1>#get(h1)</h1>
+            #get(body)
+            #embed("footer")
+    </body>
+</html>
